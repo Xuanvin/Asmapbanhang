@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1056312023624",
+    "firebase_url": "https://appbanhangolthu5.firebaseio.com",
+    "project_id": "appbanhangolthu5",
+    "storage_bucket": "appbanhangolthu5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056312023624:android:819dd8e58803e5cf",
+        "android_client_info": {
+          "package_name": "com.example.asmapbanhang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056312023624-va2e1qrl57b1b8fgn3lersbps1pemai5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asmapbanhang",
+            "certificate_hash": "491feac762ceb75fed9e57dafb5a947168def956"
+          }
+        },
+        {
+          "client_id": "1056312023624-c43jsogq1d46voedb2j7i6k58h1d34t3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa5JLRDG9iFY-WaJC74vytokTDEv5gAH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056312023624-c43jsogq1d46voedb2j7i6k58h1d34t3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="Danh sách"
+        android:id="@+id/danhsach"
+        app:showAsAction="never" />
+    <item
+        android:title="Mặt hàng bán chạy"
+        android:id="@+id/banc1"
+        app:showAsAction="never"/>
+    <item
+        android:title="đang cập nhật!!!"
+        android:id="@+id/cn1"
+        app:showAsAction="never"/>
+    <item
+        android:title="đang cập nhật!!!"
+        android:id="@+id/save_note"
+        app:showAsAction="never"/>
+    <item
+        android:title="Đăng xuất"
+        android:id="@+id/dangxuat"
+        app:showAsAction="never" />
+
+</menu>
